@@ -11,7 +11,6 @@
 - 🌱 Currently learning **Data Science, Machine Learning, and Full Stack Development**
 - 💻 Working on **Web Apps using JavaScript, Node.js, and Flask**
 - 📊 Interested in **Data Analysis, AI & Real-world Problem Solving**
-- 🎯 Goal: **Secure an internship in Data Science / Software Development**
 - ⚡ Fun fact: I enjoy turning ideas into real projects
 
 ---
